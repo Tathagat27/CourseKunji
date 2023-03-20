@@ -1,0 +1,17 @@
+.description {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+span {
+    font-size: 130%;
+    font-weight: 700;
+    color: #5d5fef;
+}
+
+img {
+    width: 50vw;
+
+}

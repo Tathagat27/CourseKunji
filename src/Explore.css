@@ -1,0 +1,17 @@
+.cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.explore {
+    margin-top: 10%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    color: #000000;
+}
+
+.expand-icon {
+    margin-top: -1.6vh;
+}
